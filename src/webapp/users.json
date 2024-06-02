@@ -1,0 +1,16 @@
+[
+  {
+    "user_firstname": "Иван",
+    "user_lastname": "Иванов",
+    "group": "1",
+    "age": "20",
+    "subject": "Математика"
+  },
+  {
+    "user_firstname": "Петр",
+    "user_lastname": "Петров",
+    "group": "2",
+    "age": "19",
+    "subject": "философия"
+  }
+]
